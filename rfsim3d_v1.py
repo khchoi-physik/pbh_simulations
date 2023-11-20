@@ -58,7 +58,6 @@ import matplotlib.pyplot as plt
 import gc
 
 from scipy.special import erf
-from sklearn.cluster import DBSCAN
 
 """# 1. Define functions"""
 
@@ -238,4 +237,3 @@ gc.collect()
 # 6. Save the positions where amplitude exceed threshold
 positions = np.argwhere(mask)
 np.save('mask_positions.npy', positions)
-
