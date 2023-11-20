@@ -1,5 +1,6 @@
-# pbh_simulations
-pbh_simulations
+# PBM_simulations
+
+**REMEMBER TO CHANGE THE PIXEL SIZE FOR SIMULATION IN CLUSTER**
 
 1. RFsim3d_v1.ipynb is the notebook for running simulations on the cluster
 2. Statistic_info returns all the statistical information of the exponential distribution.
