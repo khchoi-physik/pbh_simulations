@@ -1,0 +1,9 @@
+# Ignore log files
+*.log
+
+# Ignore .py cache
+__pycache__/
+*.py[cod]
+
+# Ignore ipynb checkpoints
+.ipynb_checkpoints/
